@@ -1,0 +1,3 @@
+nim : 22040118
+nama : Fernanda Arya Putra
+kelas :3B
